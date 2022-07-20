@@ -1,5 +1,5 @@
 ## Hello Word! 👋
-- 🗯️ 20 years
+- 🗯️ 20 years.
 - 👨🏻‍💻 I'm studying software engineering.
 - 🔭 I’m currently working on many projects and in my business.
 - 🌱 I’m currently learning Web and C# .  
