@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on many projects and in my business.
 - 🌱 I’m currently learning Web and C# .  
 - 💬 Ask me about ... Anything.
-- 👩🏻‍🏫 Experience teaching programming to different students.
+- 🧑🏻‍🏫 Experience teaching programming to different students.
 - 🗣️ English and Spanish.
 - 👥 There's no "I" in "Team".
 - 📷 Love photography and videography.
