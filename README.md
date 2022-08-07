@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello World!<img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="30px">, I'm Emmanuel Ruiz</h1>
-<h3 align="center">A younger that like programming and making many projects :)</h3>
+<h3 align="center">A younger guy that like programming and making many projects :)</h3>
 
 - 👨🏻‍💻 I'm studying software engineering.<br>
 - 🔭 I’m currently working on many projects and in my business. <br>
