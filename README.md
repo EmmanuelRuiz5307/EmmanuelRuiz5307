@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello World!👋, I'm Emmanuel Ruiz</h1>
 <h3 align="center">A younger that like programming and making many projects :)</h3>
-<img align="right" alt="Coding" width="400" src"https://www.pinterest.com/pin/567523990538356835/">
+
 - 👨🏻‍💻 I'm studying software engineering.<br>
 - 🔭 I’m currently working on many projects and in my business. <br>
 - 🌱 I’m currently learning Web and C# .  <br>
