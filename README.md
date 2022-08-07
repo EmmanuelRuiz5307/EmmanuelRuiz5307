@@ -28,6 +28,9 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelruiz5307&show_icons=true&locale=en&layout=compact" alt="emmanuelruiz5307" /></p>
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelruiz5307&show_icons=true&locale=en" alt="emmanuelruiz5307" /></p>
-
+<div align = "center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelruiz5307&count_private=true&show_icons=true&theme=radical alt="emmanuelruiz5307" /></p>
+</div>
+<div align = "center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelruiz5307&" alt="emmanuelruiz5307" /></p>
+</div>
