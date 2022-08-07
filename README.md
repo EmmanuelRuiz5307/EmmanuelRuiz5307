@@ -1,7 +1,14 @@
 <h1 align="center">Hello World!👋, I'm Emmanuel Ruiz</h1>
 <h3 align="center">A younger that like programming and making many projects :)</h3>
+- 👨🏻‍💻 I'm studying software engineering.<br>
+- 🔭 I’m currently working on many projects and in my business. <br>
+- 🌱 I’m currently learning Web and C# .  <br>
+- 🧑🏻‍🏫 Experience teaching programming to different students.<br>
+- 🗣️ English and Spanish.<br>
+- 👥 There's no "I" in "Team".<br>
+- 📷 Love photography and videography.<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelruiz5307&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelruiz5307" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuelruiz5307" alt="emmanuelruiz5307" /></a> </p>
 
