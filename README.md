@@ -9,7 +9,7 @@
 - 🗣️ English and Spanish.<br>
 - 👥 There's no "I" in "Team".<br>
 - 📷 Love photography and videography.<br>
-- - 👨🏻‍💻 I'm making Apps in MIT App Inventor.<br>
+- 👨🏻‍💻 I'm making Apps in MIT App Inventor.<br>
 <hr>
 
 
